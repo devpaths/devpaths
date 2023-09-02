@@ -1,4 +1,4 @@
-! [logo](
+! [logo](https://github.com/devpaths/devpaths/blob/main/Welcome.mp4)
 <h1 align="center">Sup 👋, I'm Devang Pathak</h1>
 <h3 align="center">Full stack developer | Cybersecurity | Data Analyst</h3>
 
