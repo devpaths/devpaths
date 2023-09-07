@@ -1,5 +1,5 @@
-![logo](https://github.com/devpaths/devpaths/blob/main/Retro%20Youtube%20Channel%20Art%20Banner%20-%20Made%20with%20PosterMyWall.jpg))
-<h1 align="center">Sup 👋, I'm Devang Pathak</h1>
+![logo](https://github.com/devpaths/devpaths/blob/main/wepik-purple-linear-geometric-videogame-twitter-header-20230907063351kWXT.png)
+<h1 align="center">Sup 👋</h1>
 <h3 align="center">Full stack developer | Cybersecurity | Data Analyst</h3>
 <img align="right" width="500" src="https://camo.githubusercontent.com/3422dd10d90be0bf50803d4b633d09f88fd8c1c91366d984d2dd85b759aea4d9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpaths&label=Profile%20views&color=0e75b6&style=flat" alt="devpaths" /> </p>
