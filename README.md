@@ -9,11 +9,7 @@
 
 
 <div>
-  <img 
-    src="https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" 
-    alt="gif" 
-    style="float: right; width: 150px; margin-left: 150px;" 
-  />
+ 
 
 - 🔭 I’m currently working on [RhythmNest](https://github.com/devpaths/RhythmNest)
 
@@ -27,6 +23,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing](https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing)
 </div>
+ <img 
+    src="[https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)" 
+    alt="gif" 
+    style="float: right; width: 150px; margin-left: 150px;" 
+  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devang_alt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devang_alt" height="30" width="40" /></a>
