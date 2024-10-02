@@ -14,7 +14,7 @@
   <img 
     src="https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" 
     alt="gif" 
-    style="float: right; width: 150px; margin-right: 150px;" 
+    style="float: right; width: 150px; margin-left: 150px;" 
   />
 
 - 🔭 I’m currently working on [RhythmNest](https://github.com/devpaths/RhythmNest)
