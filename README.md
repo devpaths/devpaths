@@ -1,6 +1,6 @@
 
 
-![gif](https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+
 
 <h1 align="center">Hi 👋, I'm Devang Pathak</h1>
 <h3 align="center">MERN Full Stack Developer</h3>
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Applications of Machine Learning**
 
-- 👨‍💻 All of my projects are available at [devangpathak.vercel.app](devangpathak.vercel.app)
+- 👨‍💻 All of my projects are available at [devangpathak.vercel.app](devangpathak.vercel.app)    ![gif](https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 - 💬 Ask me about **React, React-native, UI, Node.js, Linux**
 
