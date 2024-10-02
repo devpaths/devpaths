@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing](https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing)
   
-![My GIF](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Demo GIF" width="300"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
