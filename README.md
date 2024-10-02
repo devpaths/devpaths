@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpaths&label=Profile%20views&color=0e75b6&style=flat" alt="devpaths" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devang_alt" target="blank"><img src="https://img.shields.io/twitter/follow/devang_alt?logo=twitter&style=for-the-badge" alt="devang_alt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devang_alt" target="blank"><img src="https://img.shields.io/twitter/follow/devang_alt?logo=twitter&style=for-the-badge" alt="devang_alt" /></a> </p> ![](https://github.com/devpaths/devpaths/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 - 🔭 I’m currently working on [RhythmNest](https://github.com/devpaths/RhythmNest)
 
