@@ -7,10 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devang_alt" target="blank"><img src="https://img.shields.io/twitter/follow/devang_alt?logo=twitter&style=for-the-badge" alt="devang_alt" /></a> </p> 
 
-
-<div>
  
-
 - 🔭 I’m currently working on [RhythmNest](https://github.com/devpaths/RhythmNest)
 
 - 🌱 I’m currently learning **Applications of Machine Learning**
@@ -22,7 +19,7 @@
 - 📫 How to reach me **devangpathak752001@gmail.om**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing](https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing)
-</div>
+  
 ![My GIF](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
 
 <h3 align="left">Connect with me:</h3>
