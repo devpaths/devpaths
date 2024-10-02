@@ -10,20 +10,25 @@
 <p align="left"> <a href="https://twitter.com/devang_alt" target="blank"><img src="https://img.shields.io/twitter/follow/devang_alt?logo=twitter&style=for-the-badge" alt="devang_alt" /></a> </p> 
 
 
-
+<div>
+  <img 
+    src="https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" 
+    alt="gif" 
+    style="float: left; width: 150px; margin-right: 15px;" 
+  />
 
 - 🔭 I’m currently working on [RhythmNest](https://github.com/devpaths/RhythmNest)
 
 - 🌱 I’m currently learning **Applications of Machine Learning**
 
-- 👨‍💻 All of my projects are available at [devangpathak.vercel.app](devangpathak.vercel.app)    ![gif](https://raw.githubusercontent.com/devpaths/devpaths/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+- 👨‍💻 All of my projects are available at [devangpathak.vercel.app](devangpathak.vercel.app)  
 
 - 💬 Ask me about **React, React-native, UI, Node.js, Linux**
 
 - 📫 How to reach me **devangpathak752001@gmail.om**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing](https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing)
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devang_alt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devang_alt" height="30" width="40" /></a>
