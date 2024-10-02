@@ -23,11 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing](https://drive.google.com/file/d/14rnRJZ8JTGgByAHHf9HxRlxvdyVd1y7M/view?usp=sharing)
 </div>
- <img 
-    src="[https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif]" 
-    alt="gif" 
-    style="float: right; width: 150px; margin-left: 150px;" 
-  />
+![Alt Text](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devang_alt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devang_alt" height="30" width="40" /></a>
